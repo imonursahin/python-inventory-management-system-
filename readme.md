@@ -1,6 +1,6 @@
 Python'da Stok Yönetim Sistemi
 
-+ Veri ekleme, güncelleme, arama, silme ve verileri görüntüleme işlemleri yapar. 
++ Veri ekleme, güncelleme, arama, silme ve verileri görüntüleme işlemleri yapar. (Veritabanı)
 
 
 Python, Tkinter, Sqlite
